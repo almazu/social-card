@@ -1,0 +1,33 @@
+.card{
+    height: auto;
+    width: 600px;
+    background-color:aliceblue;
+    padding: 10px;
+}
+
+.user-account {
+    background-color: white;   
+    padding: 10px;
+}
+
+.post-content{
+    background-color: white;
+    padding: 10px;
+    height: auto;
+}
+
+.stats {
+    background-color: white;
+    padding: 10px;
+}
+
+.share-buttons {
+    background-color: white;
+}
+
+.like-button, .comment-button, .share-button {
+    
+    border-radius: 5px;
+    padding: 8px;
+    color: darkgray;
+}
